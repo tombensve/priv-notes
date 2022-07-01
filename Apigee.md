@@ -12,4 +12,4 @@
 
 ## Comments
 
-Have own "API" for calling java classes. NO main(...) required.
+Have own "API" for calling java classes. NO main(...) required. These are called "Callouts".
