@@ -8,4 +8,4 @@
 
 [Samples Reference](https://docs.apigee.com/api-platform/samples/samples-reference)
 
-[Java Example](https://github.com/apigee/api-platform-samples/tree/master/doc-samples/java-cookbook)
+[Java Cookbok Example](https://github.com/apigee/api-platform-samples/tree/master/doc-samples/java-cookbook)
