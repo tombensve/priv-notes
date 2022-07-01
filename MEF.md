@@ -2,4 +2,4 @@
 
 ## Defs
 
-POQ -> Product Offering Qualification.
+**POQ** -> _Product Offering Qualification._
