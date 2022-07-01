@@ -12,4 +12,4 @@
 
 ## Comments
 
-Have own "API" for calling java classes. NO main(...) required. These are called "Callouts".
+Have own "API" for calling java classes. NO main(...) required. These are called "Callouts". I'm assuming that this is the most common way of integrating with java. Saw some other example somewhere (should have saved it!) that looked more complex and required a _main(...)_ method.
