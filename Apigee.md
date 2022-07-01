@@ -1,6 +1,6 @@
 # Apigee notes and links
 
-## LInks
+## Links
 
 [APIGEE API proxy configuration reference](https://cloud.google.com/apigee/docs/api-platform/reference/api-proxy-configuration-reference#baseconfig)
 
@@ -9,3 +9,7 @@
 [Samples Reference](https://docs.apigee.com/api-platform/samples/samples-reference)
 
 [Java Cookbook Example](https://github.com/apigee/api-platform-samples/tree/master/doc-samples/java-cookbook)
+
+## Comments
+
+Have own "API" for calling java classes. NO main(...) required.
